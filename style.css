@@ -1,6 +1,6 @@
 body {
-    background-color: rgb(121, 121, 188);
-    color: rgb(4, 4, 68);
+    background-color: lightpink;
+    color: lightblue);
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 margin: 10px;
 
@@ -9,10 +9,10 @@ h1{
 color: gray
 font-size: 25px;}
 p{ font-size: 25px;}
-header{border-bottom: solid rgb(15, 176, 185);
+header{border-bottom: solid black;
 margin:2px;
 padding:10px;
-color: rgb(48, 42, 130);
+color: lightpink;
 .chamada{
 background:(darkgray)
 padding-bottom:80px; 
